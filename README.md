@@ -1,4 +1,4 @@
-# dushyanthreddy
+
 <div align="center">
   <h1>Dushyanth Reddy</h1>
   <h3>Data Science</h3>
